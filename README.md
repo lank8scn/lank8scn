@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+> 国内安装K8S基本镜像站---> lank8s.cn
+
+欢迎使用，有问题/建议都可以到[lank8scn的github库](https://github.com/lank8s/lank8s.github.io/issues)提issue!
 <!--
 **lank8scn/lank8scn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
